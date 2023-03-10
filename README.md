@@ -111,10 +111,10 @@ CurioSDK ile ilgili dökümana aşağıdaki linkten ulaşabilirsiniz:
 
 https://github.com/Turkcell/Curio_android_SDK_Gradle
 
-####Splunk MINT SDK
+
 
 Projemizde herhangi bir hata alındığında bilgimiz olması için Splunk MINT SDK’i kullandık. Projemize  'com.splunk.mint:mint:4.4.0' kütüphanesini ekledik.
 
-MINT SDK ile ilgili dökümana aşağıdaki linkten ulaşabilirsiniz: 
+MINT SDK ile ilgili dökümana aşağıdaki linkten ulaşabilirsiniz:
 
 http://docs.splunk.com/Documentation/MintAndroidSDK/latest/DevGuide/Requirementsandinstallation
